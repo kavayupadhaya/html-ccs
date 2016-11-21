@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<title>MY FIRST HTML DOCOMENTS</title>
+<meta-charset-"utf-8">
+</head>
+<body bgcolor="grey">
+<center><img src="logo.png"alt="navgurukul(my logo)"width=300></center>
+<p><center>J68, Sarita Vihar, New Delhi - 110076 </p>
+</center>
+<center>
+  <a href="http://info@navgurukul.org">navgurukul.org</a>
+</center>
+<h1><font color="orange">Team</font></h1>
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Surname</th>
+    <th>Occupation</th>
+  </tr>
+  <tr>
+    <td>Abhishek</td>
+    <td>Gupta</td>
+    <td>Computer Science Engineer</td>
+  </tr>
+  <tr>
+    <td><font size="8">Rishabh</td>
+    <td><font size="8">Verma</td>
+    <td><font size="8">Self Learnt Programm</font><td/>
+    </tr>
+  <tr>
+    <td>Divyashish</td>
+    <td>Jindal</td>
+    <td>Textile Engineer</td>
+  </tr>
+  <tr bgcolor="orange">
+    <td>Rajeev</td>
+    <td>Jha</td>
+    <td>Electronics Engineer</td>
+  </tr>
+
+</table>
+<h2 style="color:pink">What is NavGurukul?</h2>
+<center><img src="Background2.png" alt="teacher and student" style="width:304px;height:228px"></center>
+<p><font style="color:blue">NavGurukul is a meaningful alternative to college education which educates youth for aspirational jobs like Software Engineering.</font></p>
+<h2 style="color:orange">What makes NavGurukul unique?</h2>
+<center><img src="Background1.png" alt="studing" style="width:304px;height:228px"></center>
+<p>
+<ul>
+  <li style="color:red">Intensive program at par with B.Tech (CS or IT) degree</li>
+  <li><font size="16"style="color:red">No upfront fees. Get a job and pay later in easy instalments</font></li>
+<li style="color:brown">One year residential program leading to high-growth careers</li>
+<li style="color:yellow">Creating local problem solvers with the right tools & understanding</li> </ul></p>
+</body>
+</html>
